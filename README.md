@@ -4,7 +4,7 @@
 <table align="center">
   <tr>
     <td align="center"><strong> Saul Adrian Canche Marcial</strong></td>
-    <td align="center"><strong> Steven Chen Busqueda</strong></td>
+    <td align="center"><strong> Steven Chen Zhen</strong></td>
     <td align="center"><strong> Edgar Daniel Ocampo Ortiz</strong></td>
      <td align="center"><strong> Julian Alejandro Rodriguez Jaime </strong></td>
   </tr>

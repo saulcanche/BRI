@@ -1,4 +1,4 @@
-# SRI_P
+# BRI Proyecto
 ## Equipo
 
 <table align="center">

@@ -21,7 +21,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/edanielo">
-        <img src="https://github.com/angel.png" width="150">
+        <img src="https://github.com/edanielo.png" width="150">
       </a>
     </td>
       <td align="center">

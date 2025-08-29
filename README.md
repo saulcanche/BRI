@@ -38,7 +38,7 @@
       <a href="https://github.com/username">@username</a>
     </td>
     <td align="center">
-      <a href="https://github.com/username">@username</a>
+      <a href="https://github.com/edanielo">@edanielo</a>
     </td>
       <td align="center">
       <a href="https://github.com/username">@username</a>
